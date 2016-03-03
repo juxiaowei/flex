@@ -1,1 +1,1 @@
-.parent{padding:12px}.parent .child{font-size:13px;color:#fff}
+.parent{padding:12px}.parent .child{font-size:10px;color:#fff;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:all .1s;transition:all .1s}

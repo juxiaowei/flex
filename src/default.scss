@@ -1,7 +1,11 @@
+// import common scss 
+@import "common";
 .parent{
 	padding: 12px;
 	.child{
-		font-size: 13px;
+		font-size: 10px;
 		color: #fff;
+		display: flex;
+		transition:all .1s;
 	}
 }
